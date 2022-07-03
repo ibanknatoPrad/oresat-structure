@@ -5,6 +5,8 @@ We're building all of OreSat from scratch. For the record, this is a _terrible_ 
 
 To get started, visit the [Official Site](https://www.oresat.org) and the [OreSat Structure Wiki](https://github.com/oresat/oresat-structure/wiki)
 
+https://ibanknatoprad.github.io/oresat-structure/OreSat%20Structure%20Meeting%20Notes%202022/OreSatStructureMeetingNotes2022.html
+
 ## License 
 Portland State Aerospace Society © 2018-2021 
 
