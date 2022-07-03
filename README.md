@@ -7,6 +7,8 @@ To get started, visit the [Official Site](https://www.oresat.org) and the [OreSa
 
 [TRY](https://ibanknatoprad.github.io/oresat-structure/OreSat%20Structure%20Meeting%20Notes%202022/OreSatStructureMeetingNotes2022.html)
 
+[webview](https://ibanknatoprad.github.io/oresat-structure/)
+
 ## License 
 Portland State Aerospace Society © 2018-2021 
 
